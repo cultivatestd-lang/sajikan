@@ -1,7 +1,4 @@
 
-  # Recipe Search App Design
-
-  This is a code bundle for Recipe Search App Design. The original project is available at https://www.figma.com/design/5tad2iqoYzfMAZWyxUeP5Z/Recipe-Search-App-Design.
 
   ## Running the code
 
